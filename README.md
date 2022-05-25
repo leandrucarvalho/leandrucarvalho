@@ -1,4 +1,4 @@
-![github-header-image (1)](https://user-images.githubusercontent.com/56963289/170159815-d6b10af9-af0d-4211-b36b-458fbf4dfa53.png)
+![github-header-image](https://user-images.githubusercontent.com/56963289/170269328-e2db4fde-9ea4-463b-b3f0-dca948882949.png)
 
 ### Bem vindo ao meu perfil GitHub
 
