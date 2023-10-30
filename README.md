@@ -3,10 +3,10 @@
 ### Welcome to my GitHub profile
 
 [Portuguese]
-Comecei minha carreira como suporte na área de TI com o objetivo de crescer profissionalmente como desenvolvedor full stack e me especializar mais na parte de desenvolvimento mobile. Dependendo do ponto de vista, essa seria a trajetória mais "longa". Fazendo dessa forma consigo acumular o máximo de experiencia possível na área de programação e melhorar diariamente minhas soft e hard skills.
+Comecei minha carreira como suporte na área de TI visando crescer profissionalmente como desenvolvedor de software e me especializar mais na parte de desenvolvimento mobile utilizando a linguagem dart junto ao seu framework flutter. Dependendo do ponto de vista, essa seria a trajetória mais "longa". Fazendo dessa forma consigo acumular o máximo de experiência possível na área de programação e melhorar diariamente minhas soft e hard skills.
 
 [English]
-I started my career as a support in the IT area with the objective of growing professionally as a full stack developer and specializing more in mobile development. Depending on your point of view, this would be the "longest" trajectory. By doing this I can accumulate as much experience as possible in the IT/programming area and improve my soft and hard skills daily.
+I started my career in IT support with the aim of growing professionally as a software developer and specializing more in mobile development using the dart language and its flutter framework. Depending on your point of view, this would be the "longest" path. By doing so, I can accumulate as much experience as possible in the programming field and improve my soft and hard skills on a daily basis.
 
 <div align = "center">
 <a href="https://github.com/leandrucarvalho">
